@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Wi-Fi Scan</string>
+
+    <string name="wifi_info_button_label">Connection\ninformation</string>
+    <string name="wifi_info_button_description">Show connected BSS information</string>
+    <string name="wifi_scan_button_label">Request a\nWi-Fi scan</string>
+    <string name="wifi_scan_button_description">Request a Wi-Fi scan</string>
+
+    <string name="wifi_scan_initiate_text">Requested scan; won\'t be possible in future (can only listen to scan events)</string>
+    <string name="wifi_scan_unsuccessful">Scan request denied or failed\n(throttling, Wi-Fi disabled, or other)</string>
+    <string name="wifi_scan_successful">Received scan results\n(including unsolicited)</string>
+</resources>
